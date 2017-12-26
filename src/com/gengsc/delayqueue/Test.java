@@ -1,7 +1,6 @@
-package com.dongnaoedu.delayqueue;
+package com.gengsc.delayqueue;
 
 import java.util.concurrent.DelayQueue;
-import java.util.concurrent.ThreadPoolExecutor;
 
 /**
  * 动脑学院-Mark老师

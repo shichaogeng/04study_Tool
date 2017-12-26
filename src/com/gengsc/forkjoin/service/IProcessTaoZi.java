@@ -1,7 +1,7 @@
-package com.dongnaoedu.forkjoin.service;
+package com.gengsc.forkjoin.service;
 
 
-import com.dongnaoedu.forkjoin.vo.PanTao;
+import com.gengsc.forkjoin.vo.PanTao;
 
 /**
  * 动脑学院-Mark老师

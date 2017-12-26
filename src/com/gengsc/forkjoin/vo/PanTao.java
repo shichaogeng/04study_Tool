@@ -1,4 +1,4 @@
-package com.dongnaoedu.forkjoin.vo;
+package com.gengsc.forkjoin.vo;
 
 /**
  * 动脑学院-Mark老师

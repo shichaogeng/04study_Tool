@@ -1,9 +1,9 @@
-package com.dongnaoedu.forkjoin;
+package com.gengsc.forkjoin;
 
 
-import com.dongnaoedu.forkjoin.vo.Color;
-import com.dongnaoedu.forkjoin.vo.PanTao;
-import com.dongnaoedu.forkjoin.vo.Size;
+import com.gengsc.forkjoin.vo.Color;
+import com.gengsc.forkjoin.vo.PanTao;
+import com.gengsc.forkjoin.vo.Size;
 
 import java.util.Random;
 

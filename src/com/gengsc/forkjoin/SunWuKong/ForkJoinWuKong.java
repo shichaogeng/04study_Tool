@@ -1,12 +1,12 @@
-package com.dongnaoedu.forkjoin.SunWuKong;
+package com.gengsc.forkjoin.SunWuKong;
 
 
-import com.dongnaoedu.forkjoin.MakePanTaoArray;
-import com.dongnaoedu.forkjoin.SunWuKong.Impl.WuKongPickImpl;
-import com.dongnaoedu.forkjoin.SunWuKong.Impl.WuKongProcessImpl;
-import com.dongnaoedu.forkjoin.service.IPickTaoZi;
-import com.dongnaoedu.forkjoin.service.IProcessTaoZi;
-import com.dongnaoedu.forkjoin.vo.PanTao;
+import com.gengsc.forkjoin.MakePanTaoArray;
+import com.gengsc.forkjoin.SunWuKong.Impl.WuKongPickImpl;
+import com.gengsc.forkjoin.SunWuKong.Impl.WuKongProcessImpl;
+import com.gengsc.forkjoin.service.IPickTaoZi;
+import com.gengsc.forkjoin.service.IProcessTaoZi;
+import com.gengsc.forkjoin.vo.PanTao;
 
 import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.RecursiveTask;

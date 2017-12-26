@@ -1,8 +1,8 @@
-package com.dongnaoedu.forkjoin.SunWuKong.Impl;
+package com.gengsc.forkjoin.SunWuKong.Impl;
 
 
-import com.dongnaoedu.forkjoin.service.IProcessTaoZi;
-import com.dongnaoedu.forkjoin.vo.PanTao;
+import com.gengsc.forkjoin.service.IProcessTaoZi;
+import com.gengsc.forkjoin.vo.PanTao;
 
 /**
  * 动脑学院-Mark老师

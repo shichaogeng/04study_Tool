@@ -1,7 +1,7 @@
-package com.dongnaoedu.forkjoin.BaJie.impl;
+package com.gengsc.forkjoin.BaJie.impl;
 
-import com.dongnaoedu.forkjoin.service.IProcessTaoZi;
-import com.dongnaoedu.forkjoin.vo.PanTao;
+import com.gengsc.forkjoin.service.IProcessTaoZi;
+import com.gengsc.forkjoin.vo.PanTao;
 
 /**
  * 动脑学院-Mark老师

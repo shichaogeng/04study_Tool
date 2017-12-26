@@ -1,4 +1,4 @@
-package com.dongnaoedu;
+package com.gengsc;
 
 import java.util.concurrent.ConcurrentLinkedQueue;
 import java.util.concurrent.CountDownLatch;

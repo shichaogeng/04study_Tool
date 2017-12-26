@@ -1,4 +1,4 @@
-package com.dongnaoedu.com.test;
+package com.gengsc.com.test;
 
 import java.util.UUID;
 
